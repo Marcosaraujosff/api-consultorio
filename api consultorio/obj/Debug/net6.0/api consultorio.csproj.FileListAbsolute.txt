@@ -1,0 +1,42 @@
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\appsettings.Development.json
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\appsettings.json
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\api consultorio.exe
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\api consultorio.deps.json
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\api consultorio.runtimeconfig.json
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\api consultorio.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\api consultorio.pdb
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.csproj.AssemblyReference.cache
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.AssemblyInfoInputs.cache
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.AssemblyInfo.cs
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.csproj.CoreCompileInputs.cache
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.MvcApplicationPartsAssemblyInfo.cs
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.MvcApplicationPartsAssemblyInfo.cache
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\staticwebassets.build.json
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\staticwebassets.development.json
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\scopedcss\bundle\api consultorio.styles.css
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.csproj.CopyComplete
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\refint\api consultorio.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.pdb
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\api consultorio.genruntimeconfig.cache
+C:\jobs\webApi c#\api consultorio\api consultorio\obj\Debug\net6.0\ref\api consultorio.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Humanizer.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Npgsql.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\AutoMapper.dll
+C:\jobs\webApi c#\api consultorio\api consultorio\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
